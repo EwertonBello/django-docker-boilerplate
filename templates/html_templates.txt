@@ -1,0 +1,1 @@
+Cria um base.html e as pastas de cada app
